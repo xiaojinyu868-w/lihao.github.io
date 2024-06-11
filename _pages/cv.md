@@ -11,14 +11,15 @@ redirect_from:
 
 Personal Information
 ======
-* **Email**: 202111011008@mail.bnu.edu.cn   * **Phone**: 13123511781
+* **Email**: 202111011008@mail.bnu.edu.cn
+* **Phone**: 13123511781
 
 
 Education
 ======
 * Beijing Normal University | Statistics, Honors: Awarded 3 University-level Scholarships
   * **Bachelor's Degree**
-  * 2021.09—2024.06 (Expected)
+  * 2021.09—2025.06 (Expected)
   * Relevant Courses: Statistical Learning (88), Linear Models (92), Business and Economic Statistics (89), Statistical Forecasting and Decision Making (92)
 
 Internship Experience
