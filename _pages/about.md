@@ -9,5 +9,5 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in statistics at Beijing Normal University[School of Statistics](https://stat.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). My research interest includes LLM for Social Science,NLP for explainable text embedding within Symbolic Knowledge.etc
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 ————————————————
