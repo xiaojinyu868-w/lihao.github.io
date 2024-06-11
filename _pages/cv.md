@@ -11,8 +11,8 @@ redirect_from:
 
 Personal Information
 ======
-* **Email**: 1181783314@qq.com
-* **Phone**: 13123511781
+* **Email**: 202111011008@mail.bnu.edu.cn   * **Phone**: 13123511781
+
 
 Education
 ======
